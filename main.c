@@ -1,3 +1,8 @@
+/****************************************************************************
+Developer: Jiaxin Li
+E-mail: 1319376761@qq.com
+Github: https://github.com/chuqingi/Smarc_SRC
+****************************************************************************/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
