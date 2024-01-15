@@ -1,5 +1,5 @@
 # Smarc_SRC
-C implementation of float for Smarc_SRC (Smarc audio sampling rate converter)
+C implementation of floating-point for Smarc_SRC (Smarc audio sampling rate converter)
 https://audio-smarc.sourceforge.net/
 
 ## Table of contents
